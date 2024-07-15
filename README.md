@@ -1,4 +1,4 @@
-﻿# data-science-internship-projects-the-black-pearl-all-5-tasks
+﻿# DATA SCIENCE INTERNSHIP 5 PROJECTS OF THE BLACK PEARLS COMPANY
 The Black Pearls Internship Projects
 
 This repository contains a collection of data science and machine learning projects completed during my internship at The Black Pearls from June 15, 2024, to July 15, 2024. Each project addresses a different business problem using various techniques and algorithms.
