@@ -75,6 +75,23 @@ These projects address real-world business challenges relevant to various indust
 3. **Install required libraries:** Each project typically has a `requirements.txt` file. Install the libraries using `pip install -r requirements.txt`.
 4. **Run the project script:** Instructions for running the specific project will be in the project's README file.
 
+# Data Science Internship Projects
+
+This repository contains data science projects for a hypothetical internship.
+
+## Colab Notebooks
+
+* **Project 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vRKYrFpAT_oddEIhcOrO7_U89_45nyU6#scrollTo=MBPa6bTkOi6g)
+* **Project 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1quSKf_YXGoxie72fsCBUhk-SfEsFDpZt#scrollTo=fK6Og45uOwCu)
+* **Project 3:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cysSxlZYbG3BPaOsLsTWRi9blAgQrXrn)
+* **Project 4:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qc591tdiGL-BWd8QrpfD0IgnsLTs5utf)
+* **Project 5:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_E-A8WqmpSaCnhQgo7rv_gevngGLVY_q#scrollTo=p_fvk7TOmi_k)
+
+**Instructions:**
+
+* **Open in Colab:** Click the "Open In Colab" button to open the notebook in the Google Colab environment.
+* **Download and Run Locally:** Download the `.ipynb` file from the repository and open it in a Jupyter Notebook environment.
+  
 ## Contact Information
 
 * **LinkedIn:** https://www.linkedin.com/in/niket-patil-/
